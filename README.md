@@ -15,7 +15,7 @@ Thanks for checking out this front-end coding challenge.
 ### Links
 
 - Solution URL: [Github Code](https://github.com/lastiwan89/fem-NFT-preview-card)
-- Live Site URL: [Netlify]()
+- Live Site URL: [Netlify](https://64d61016ca4ca44ec0408a57--curious-lebkuchen-37d8d2.netlify.app/)
 
 ## My process
 
